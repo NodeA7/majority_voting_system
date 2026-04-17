@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Voting_system"      # Project title
+  title:        "Voting_system"      # Project titlehttps://github.com/NodeA7/majority_voting_system/blob/main/info.yaml#L19C10
   author:       "Samuel Ababras Samuel"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Standard logic gates used to implement a majority voting system"      # One line description of what your project does
@@ -16,9 +16,9 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
+  ui[0]: "input 1"
+  ui[1]: "input 2"
+  ui[2]: "input 3"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -33,7 +33,7 @@ pinout:
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
-  uo[7]: ""
+  uo[7]: "output 7"
 
   # Bidirectional pins
   uio[0]: ""

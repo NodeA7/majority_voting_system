@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     461549167038367745       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Voting_system"      # Project titlehttps://github.com/NodeA7/majority_voting_system/blob/main/info.yaml#L19C10
   author:       "Samuel Ababras Samuel"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
